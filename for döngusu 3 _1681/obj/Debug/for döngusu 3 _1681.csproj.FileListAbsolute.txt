@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\for döngusu 3 _1681\for döngusu 3 _1681\bin\Debug\for döngusu 3 _1681.exe.config
+C:\Users\User\source\repos\for döngusu 3 _1681\for döngusu 3 _1681\bin\Debug\for döngusu 3 _1681.exe
+C:\Users\User\source\repos\for döngusu 3 _1681\for döngusu 3 _1681\bin\Debug\for döngusu 3 _1681.pdb
+C:\Users\User\source\repos\for döngusu 3 _1681\for döngusu 3 _1681\obj\Debug\for döngusu 3 _1681.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\for döngusu 3 _1681\for döngusu 3 _1681\obj\Debug\for döngusu 3 _1681.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\for döngusu 3 _1681\for döngusu 3 _1681\obj\Debug\for_döngusu_3__1681.Form1.resources
+C:\Users\User\source\repos\for döngusu 3 _1681\for döngusu 3 _1681\obj\Debug\for_döngusu_3__1681.Properties.Resources.resources
+C:\Users\User\source\repos\for döngusu 3 _1681\for döngusu 3 _1681\obj\Debug\for döngusu 3 _1681.csproj.GenerateResource.cache
+C:\Users\User\source\repos\for döngusu 3 _1681\for döngusu 3 _1681\obj\Debug\for döngusu 3 _1681.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\for döngusu 3 _1681\for döngusu 3 _1681\obj\Debug\for döngusu 3 _1681.exe
+C:\Users\User\source\repos\for döngusu 3 _1681\for döngusu 3 _1681\obj\Debug\for döngusu 3 _1681.pdb
